@@ -1,10 +1,10 @@
 /*index style*/
 .header {
   display: flex;
-
+  justify-content: spacebetween;
 }
 
 .rightlinks {
   display: flex;
-  
+
 }
