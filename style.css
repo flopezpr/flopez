@@ -1,5 +1,10 @@
 /*index style*/
 .header {
   display: flex;
+
+}
+
+.rightlinks {
+  display: flex;
   
 }
