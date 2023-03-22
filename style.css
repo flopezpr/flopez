@@ -1,7 +1,7 @@
 /*index style*/
 .header {
   display: flex;
-  justify-content: spacebetween;
+  justify-content: space-between;
 }
 
 .rightlinks {
