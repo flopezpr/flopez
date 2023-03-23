@@ -33,22 +33,4 @@ a {
 }
 
 /*abboutme.html style*/
-.containerp {
-  display: flex;
-  justify-content: space-evenly;
-  padding: 30px;
-}
-
-.mepara {
-  display: flex;
-  width: 600px;
-  flex-direction: column;
-  align-self: self-end;
-}
-.mehiking {
-  width: 300px;
-  height: 400px;
-  border-radius: 4px;
-  align-self: center;
-}
 
