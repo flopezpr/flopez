@@ -1,10 +1,23 @@
 /*index style*/
+body {
+  min-height: 100vh;
+  font-family: sans-serif;
+  margin: 0;
+}
+
 .header {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
+  padding: 40px 40px 50px;
+  background-color: #3e5a78;
+  color: white;
 }
 
 .rightlinks {
   display: flex;
   gap: 30px;
+}
+
+a {
+  color: white;
 }
