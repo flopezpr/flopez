@@ -17,6 +17,11 @@ body {
   gap: 30px;
 }
 
+a {
+  color: white;
+}
+
+/*abboutme.html style*/
 .containerp {
   display: flex;
   justify-content: space-evenly;
@@ -37,6 +42,3 @@ body {
   align-self: center;
 }
 
-a {
-  color: white;
-}
