@@ -48,3 +48,10 @@ a {
   flex-direction: column;
   justify-content: space-between;
 }
+
+.piccontainer {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
