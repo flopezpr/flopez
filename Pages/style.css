@@ -55,3 +55,9 @@ a {
   padding: 10px;
 }
 
+.piccontainertwo {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 10px;
+}
+
