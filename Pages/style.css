@@ -42,3 +42,9 @@ a {
   display: flex;
   justify-content: center;
 }
+
+.pictures {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
