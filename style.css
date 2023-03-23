@@ -3,14 +3,15 @@ body {
   min-height: 100vh;
   font-family: sans-serif;
   margin: 0;
+  background-color: #f3f7fc;
 }
 
 .header {
   display: flex;
   justify-content: space-around;
   padding: 30px;
-  background-color: #3e5a78;
-  color: white;
+  background-color: #d8e6f5;
+  
 }
 
 .rightlinks {
@@ -19,7 +20,7 @@ body {
 }
 
 a {
-  color: white;
+  color: black;
   text-decoration: none;
   display: flex;
   align-items: center;
@@ -31,3 +32,23 @@ a {
   height: 50px;
   border-radius: 10px;
 }
+
+.containerp {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 30px;
+}
+
+.mepara {
+  display: flex;
+  width: 600px;
+  flex-direction: column;
+  align-self: self-end;
+}
+.mehiking {
+  width: 300px;
+  height: 400px;
+  border-radius: 4px;
+  align-self: center;
+}
+
