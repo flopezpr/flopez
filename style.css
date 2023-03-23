@@ -8,7 +8,7 @@ body {
 .header {
   display: flex;
   justify-content: space-around;
-  padding: 40px 40px 40px;
+  padding: 30px;
   background-color: #3e5a78;
   color: white;
 }
