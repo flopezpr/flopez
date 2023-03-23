@@ -23,6 +23,10 @@ a {
   text-decoration: none;
 }
 
+.logo {
+  margin-right: 471px;
+}
+
 /*abboutme.html style*/
 .containerp {
   display: flex;
