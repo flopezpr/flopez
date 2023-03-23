@@ -12,6 +12,11 @@ body {
   gap: 30px;
 }
 
+.mepara {
+  border: 1px solid #e7e4e4;
+  box-shadow: 2px 4px 16px rgba(0,0,0,.06);
+  border-radius: 4px;
+}
 .kenzie {
   width: 300px;
   height 300px;
