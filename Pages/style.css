@@ -72,6 +72,8 @@ a {
 /*Videos style*/
 .text {
   width: 500px;
+  display: flex;
+  align-self: center;
 }
 
 .videos {
