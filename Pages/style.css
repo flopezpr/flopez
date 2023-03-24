@@ -54,19 +54,22 @@ a {
 .pictures {
   display: flex;
   flex-direction: column;
-  justify-content: space-between;
+  justify-content: center;
+  gap: 20px;
 }
 
 .piccontainer {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   padding: 10px;
+  gap: 40px;
 }
 
 .piccontainertwo {
   display: flex;
-  justify-content: space-evenly;
+  justify-content: center;
   padding: 10px;
+  gap: 40px;
 }
 
 /*Videos style*/
