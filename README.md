@@ -1,0 +1,1 @@
+This is my personal website for me to practice my HTML, CSS, and javascript when I learn it as well as my future projects. 
