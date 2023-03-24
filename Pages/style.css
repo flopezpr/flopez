@@ -82,3 +82,6 @@ a {
   align-items: center;
 }
 
+.video {
+  display: flex;
+}
