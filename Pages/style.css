@@ -69,3 +69,14 @@ a {
   padding: 10px;
 }
 
+/*Videos style*/
+.text {
+  width: 500px;
+}
+
+.videos {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
