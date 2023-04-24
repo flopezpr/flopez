@@ -38,6 +38,7 @@ a {
   justify-content: space-evenly;
   padding: 30px;
   flex-wrap: flex;
+  max-width: 100%;
 }
 
 .mepara {
