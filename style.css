@@ -37,13 +37,16 @@ a {
   display: flex;
   justify-content: space-evenly;
   padding: 30px;
+  flex-wrap: flex;
 }
 
 .mepara {
   display: flex;
   width: 600px;
+  max-width: 100%;
   flex-direction: column;
   align-self: self-end;
+  font-size: 2vw;
 }
 .mehiking {
   width: 300px;
