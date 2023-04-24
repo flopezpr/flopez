@@ -11,7 +11,7 @@ body {
   justify-content: space-around;
   padding: 30px;
   background-color: #d8e6f5;
-  
+  max-width: 100%;
 }
 
 .rightlinks {
